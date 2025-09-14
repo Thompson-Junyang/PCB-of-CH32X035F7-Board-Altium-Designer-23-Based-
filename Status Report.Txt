@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[CH32X035F7.GTO]
+   Generated File[CH32X035F7.GTP]
+   Generated File[CH32X035F7.GTS]
+   Generated File[CH32X035F7.GTL]
+   Generated File[CH32X035F7.GBL]
+   Generated File[CH32X035F7.GBS]
+   Generated File[CH32X035F7.GBP]
+   Generated File[CH32X035F7.GBO]
+   Generated File[CH32X035F7.GM]
+   Generated File[CH32X035F7.EXTREP]
+   Generated File[CH32X035F7.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:45:24 On 2023/10/17
